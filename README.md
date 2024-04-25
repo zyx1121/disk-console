@@ -29,6 +29,41 @@
 - [ ] Fill all data
 - [ ] Load script to decode HEX data
 
+## Installation
+
+- **Install from PyPI**
+  
+  You can install Disk Monitor directly from the Python Package Index using the pip package manager. Open your terminal and run the following command:
+
+  ```bash
+  pip install disk-monitor
+  ```
+ 
+- **Manual Installation**
+
+  If you prefer to install manually from the source code, first clone or download the repository:
+
+  ```bash
+  git clone https://github.com/zyx1121/disk-monitor
+  cd disk-monitor
+  ```
+
+  Then run the following command in the project root directory:
+
+  ```bash
+  pip install .
+  ```
+
+  This will install the package and its required dependencies.
+
+## Usage
+
+Once installed, you can start Disk Monitor by entering the following command:
+
+```bash
+disk-monitor
+```
+
 ## License
 
 This project is licensed under the MIT License - see the LICENSE.md file for details.
